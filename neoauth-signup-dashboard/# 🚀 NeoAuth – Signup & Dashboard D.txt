@@ -1,0 +1,17 @@
+# NeoAuth - Signup & Dashboard
+
+## Description
+NeoAuth is a secure signup and user dashboard web app built with HTML, CSS (Tailwind), and JavaScript. It features:
+
+- User signup with validation
+- LocalStorage user persistence
+- Password hashing (simple demo hash)
+- User dashboard with delete functionality
+- Glassmorphism and neon-glow UI style
+
+## Deployment
+Live demo: [Add your live deployment link here]
+
+## Setup Instructions
+
+1. Clone the repository:
